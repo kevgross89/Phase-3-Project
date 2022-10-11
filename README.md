@@ -6,7 +6,7 @@ Author: Kevin Gross
 
 ## Project Overview
 
-This project analyzes data from the NFL Scounting Combine from 2009 to 2019 and also collegiate football stats from 2009 to 2013. Both of these datasets were pulled from [Kaggle](https://www.kaggle.com/).
+This project analyzes data from the NFL Scouting Combine from 2009 to 2019 and also collegiate football stats from 2009 to 2013. Both of these datasets were pulled from [Kaggle](https://www.kaggle.com/).
 
 The NFL Scouting Combine is a week-long showcase occurring every February at Lucas Oil Stadium in Indianapolis, where college football players perform physical and mental tests in front of National Football League coaches, general managers, and scouts. With increasing interest in the NFL Draft, the scouting combine has grown in scope and significance, allowing personnel directors to evaluate upcoming prospects in a standardized setting.
 

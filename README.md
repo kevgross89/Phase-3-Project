@@ -12,7 +12,7 @@ The NFL Scouting Combine is a week-long showcase occurring every February at Luc
 
 Athletes attend by invitation only. An athlete's performance during the combine can affect their draft status and salary, and ultimately their career. The draft has popularized the term "workout warrior", whereby an athlete's "draft stock" is increased based on superior measurable qualities such as size, speed, and strength, despite having an average or sub-par college career.
 
-The data collected at the Combine is in the below categories:
+The data collected at the Combine is in the below categories. [LINK TO COMBINE DATA](https://www.kaggle.com/datasets/redlineracer/nfl-combine-performance-data-2009-2019)
 
 * `Year`: Year of attendance at the NFL combine
 * `Player`: Player name
@@ -33,7 +33,7 @@ The data collected at the Combine is in the below categories:
 * `Position`: Playing position
 * `Drafted`: Was the player drafted during the NFL draft?
 
-The second dataset takes game by game stats ranging from 2009 to 2013. These stats included 57 columns of data with items such as the below:
+The second dataset takes game by game stats ranging from 2009 to 2013. These stats included 57 columns of data with items such as the below. [LINK TO NCAA FOOTBALL DATA](https://www.kaggle.com/datasets/mhixon/college-football-statistics)
 
 * `Rush Att`: Amount of rushing attempts
 * `Rush Yard`: Amount of rushing yards
